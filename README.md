@@ -1,2 +1,2 @@
-# rpi-ai
-Raspberry pi experiments building up to edge computing applications.
+# rpi-demo
+Raspberry pi experimental & learning modules.
